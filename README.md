@@ -26,9 +26,9 @@
   
   - ☕ I'm currently working on becoming a fullstack developer.
 
-  - :seedling: Esploring Web Frameworks such as Django and AngularJS.
+  - :seedling: Exploring Web Frameworks such as Django and AngularJS.
 
-  - 🍕: During my free time, I enjoy solving problems on Codewars, Stack Overflow, and Writing Creative Fiction.
+  - 🍕: I enjoy solving problems on Codewars, Stack Overflow, and Writing Creative Fiction.
 
   - 🤝: Feel free to reach out with questions, concerns, and/or opportunities!
   ---
