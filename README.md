@@ -24,13 +24,13 @@
 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Freelance Software Developer from Canada.
   
-  - ☕ I'm currently working on becoming a fullstack developer.
+    ☕ I'm currently working on becoming a fullstack developer.
 
-  - :seedling: Exploring Web Frameworks such as Django and AngularJS.
+    :seedling: Exploring Web Frameworks such as Django and AngularJS.
 
-  - 🍕: I enjoy solving problems on Codewars, Stack Overflow, and Writing Creative Fiction.
+    🍕: I enjoy solving problems on Codewars, Stack Overflow, and Writing Creative Fiction.
 
-  - 🤝: Feel free to reach out with questions, concerns, and/or opportunities!
+    🤝: Feel free to reach out with questions, concerns, and/or opportunities!
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
