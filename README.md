@@ -22,7 +22,7 @@
 
 ###  :man_technologist:  About Me :
 
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">** I'm a Freelance Software Developer from Canada.
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Freelance Software Developer from Canada.
   
     - ☕ I'm currently working on becoming a fullstack developer.
 
